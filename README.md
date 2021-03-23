@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @val898
+- 👀 I’m interested in physical computing & web designing
+- 🌱 I’m currently pursing my Masters of Digital Media degree & reseraching on multi-network connections using Arduinos
+- 📫 More info on what I've done at https://vanessaamylam888.wixsite.com/portfolio
